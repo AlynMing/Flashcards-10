@@ -7,9 +7,7 @@ The app is now modified to allow the user to make their own flashcards by clicki
 
 ### App Walk-though
 
-<img src="http://g.recordit.co/hm7zEdHVVp.gif" width=200>
-<!--- <img src="http://g.recordit.co/p8iJgAnqH5.gif" width=200><br>-->
-<!--- <img src="http://g.recordit.co/ekRem8BNzl.gif" width=200><br> -->
+
 
 ## Required
 - [x] User can open the creation screen
